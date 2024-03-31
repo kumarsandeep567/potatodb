@@ -24,6 +24,8 @@ potatodb is a full-stack application that provides real-time movie details, incl
 - **TMDB API Integration**
     - Fetch movie data (titles, cast, likes, posters) from The Movie Database (TMDB) REST API.
     - Reduced external API requests by 70% using caching strategies.
+ 
+---
 
 ## App screenshots
 
@@ -33,6 +35,7 @@ potatodb is a full-stack application that provides real-time movie details, incl
 ![CastDetailsPage](screenshots/CastDetailsPage.png "CastDetailsPage")
 ![TvShowPage](screenshots/TvShowPage.png "TvShowPage")
 
+---
 
 ## Setup Instructions
 
